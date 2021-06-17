@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narendra Chukka|Blog</title>
+    <link>https://nchukkaio.github.io/resume/</link>
+    <description>Recent content on Narendra Chukka|Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>narendra.ch192@gmail.com (Narendra Chukka)</managingEditor>
+    <webMaster>narendra.ch192@gmail.com (Narendra Chukka)</webMaster>
+    <lastBuildDate>Tue, 15 Jun 2021 20:50:01 +0530</lastBuildDate><atom:link href="https://nchukkaio.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
